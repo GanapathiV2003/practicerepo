@@ -1,4 +1,4 @@
 this is my first file to upload github using vscode
-My name is Ganapathi
-I'm from walaja
+My name is venkatesh
+I'm from vellore
 
